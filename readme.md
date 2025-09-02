@@ -1,1 +1,1 @@
-jda
+This repository contains code and dataset for a rock classification task using various Machine Learning (ML) and Deep Learning (DL) models. The dataset used here is derived from BSE image extracted data, and the project aims to compare the performance of multiple approaches for accurate classification.
