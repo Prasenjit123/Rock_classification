@@ -4,7 +4,7 @@ This repository contains code and data for a **rock classification task** using 
 
 
 ## Repository Contents
-- `rock_classification.py` → main source code  
+- `rock_classify.py` → main source code  
 - `README.md` → documentation  
 - Dataset → available under **Release Assets** (see below)  
 
@@ -34,7 +34,7 @@ This repository contains code and data for a **rock classification task** using 
 3. Download the dataset from [Releases](../../releases) (`BSE_image_extracted_data.xlsx`)  
 4. Run the script  
    ```bash
-   python rock_classification.py
+   python rock_classify.py
    ```
 
 
