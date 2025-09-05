@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+opencv-python
+imbalanced-learn
+xgboost
+catboost
+tensorflow
