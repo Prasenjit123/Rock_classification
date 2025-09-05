@@ -2,14 +2,12 @@
 
 This repository contains code and data for a **rock classification task** using **Machine Learning (ML)** and **Deep Learning (DL)** models. The dataset is derived from **BSE-extracted rock image data**, and the project evaluates multiple approaches to achieve accurate classification.
 
----
 
 ## Repository Contents
 - `rock_classification.py` → main source code  
 - `README.md` → documentation  
 - Dataset → available under **Release Assets** (see below)  
 
----
 
 ## Models Implemented
 - **Machine Learning models**  
@@ -22,7 +20,6 @@ This repository contains code and data for a **rock classification task** using 
   - Deep Neural Networks (DNN)  
   - Convolutional Neural Network (CNN)  
 
----
 
 ## How to Run
 1. Clone the repository  
@@ -40,7 +37,6 @@ This repository contains code and data for a **rock classification task** using 
    python rock_classification.py
    ```
 
----
 
 ## Dataset Access
 The dataset is **not included** in the auto-generated `Source code (zip/tar.gz)` archives.  
@@ -51,7 +47,6 @@ The dataset is **not included** in the auto-generated `Source code (zip/tar.gz)`
 3. Under **Assets**, download:  
    - `BSE_image_extracted_data.xlsx` → dataset  
 
----
 
 ## Evaluation
 The models were evaluated using:  
@@ -61,7 +56,6 @@ The models were evaluated using:
 
 Deep learning models performed better in **feature extraction**, while traditional ML models provided **faster and lightweight** alternatives.
 
----
 
 ## Applications
 - Geological surveys and mining  
